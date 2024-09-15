@@ -1,0 +1,2 @@
+Make a variable named num_string and assign the value "123" to it. 
+Then convert it to an integer and assign the value of that integer to a variable named num.

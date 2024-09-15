@@ -1,0 +1,2 @@
+make a varible named number and make it 100.
+convert number into a string and assign it as the value of a variable named string.

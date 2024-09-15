@@ -1,0 +1,1 @@
+Make a variable named greeting and assign the value "Hello" to it.
