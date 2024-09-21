@@ -1,0 +1,5 @@
+
+Ask the user for your name.
+Then, ask the user for their favourite color.
+
+Then, output a statement saying [name]'s favourite color is [color]!
