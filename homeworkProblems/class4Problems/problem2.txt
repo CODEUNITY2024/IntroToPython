@@ -1,0 +1,1 @@
+Write a program subtracting two numbers (9 and 3). Return the result before printing it.
