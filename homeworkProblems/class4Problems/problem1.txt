@@ -1,0 +1,3 @@
+Ask the user for their favourite number. If it is below 100, output "Nice Choice!".
+
+Otherwise, output "That's a big number!"
