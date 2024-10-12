@@ -1,7 +1,0 @@
-Create a program asking the user to input if they like red or blue more.
-
-If they input red, output "Same".
-
-If they input blue, output "Cool".
-
-Else, don't output anything.

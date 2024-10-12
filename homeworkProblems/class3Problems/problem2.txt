@@ -1,1 +1,0 @@
-create a funtion to subtract two numbers (9 and 3) and return it, before printing the result.
