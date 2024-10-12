@@ -1,0 +1,7 @@
+Ask the user to choose their favourite color between blue and red.
+
+If the user inputs "blue", output "Same".
+
+If the user inputs "red", output "Cool".
+
+Else, don't output anything.
